@@ -1,0 +1,43 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:25:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:25:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:�����: ���
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:25:13] "GET /search?s=��� HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:25:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:42:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:42:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:42:52] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:42:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:42:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:42:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: утро
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:42:55] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:42:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:42:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:42:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ghbdtn
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:00] "GET /search?s=ghbdtn HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: прив
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:08] "GET /search?s=прив HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:08] "[36mGET /uploads/clapan-15ch95em.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:22] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл X4_Foundations_..torrent не изаброжение
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 03:43:28] "POST /post HTTP/1.1" 200 -
